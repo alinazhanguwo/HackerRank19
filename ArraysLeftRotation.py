@@ -1,3 +1,8 @@
+# HackerRank-19 by Alina Li Zhang
+## HackerRank-19: Coding Interview Questions with Python Solutions and Explanations
+### https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
+
+
 #!/bin/python3
 
 import math
